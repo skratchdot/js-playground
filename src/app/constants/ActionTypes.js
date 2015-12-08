@@ -1,2 +1,4 @@
-export const INCREMENT_COUNTER = 'INCREMENT_COUNTER';
-export const SET_COUNTER = 'SET_COUNTER';
+export const SET_CODE = 'SET_CODE';
+export const SET_RUN_SECONDS = 'SET_RUN_SECONDS';
+export const SET_RUN_TIMES = 'SET_RUN_TIMES';
+export const SET_RUN_VALUE = 'SET_RUN_VALUE';

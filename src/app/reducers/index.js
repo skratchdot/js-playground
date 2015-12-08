@@ -1,8 +1,10 @@
 import { combineReducers } from 'redux';
-import counter from './counter';
+import code from './code';
+import run from './run';
 
 const rootReducer = combineReducers({
-  counter
+  code,
+  run
 });
 
 export default rootReducer;
